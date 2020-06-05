@@ -8,6 +8,8 @@ namespace NguyenManhHung_Lab456.Models
     public class Category
     {
         //Them ghi chu
+        //asdfghjSaDHJ
+
 
     }
 }
